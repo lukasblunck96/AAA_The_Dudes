@@ -1,5 +1,7 @@
-./data/Taxi_Trips_-_2017.csv
-./data/Taxi_Trips_-_2017.csv:ZoneIdentifier
-./chunks/
-./data/trips.hdf5
-./data/trips.yaml
+chunks/
+data/Taxi_Trips_-_2017.csv
+data/Taxi_Trips_-_2017.csv:Zone.Identifier
+data/trips_prepared_2.hdf5:Zone.Identifier
+data/trips.hdf5
+data/trips_prepared.hdf5
+data/trips.yaml
