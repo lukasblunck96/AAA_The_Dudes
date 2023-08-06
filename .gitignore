@@ -6,3 +6,4 @@ data/trips.hdf5
 data/trips_prepared.hdf5
 data/trips.yaml
 local_helpers/__pycache__/__init__.cpython-310.pyc
+data/model_input/
