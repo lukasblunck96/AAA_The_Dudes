@@ -65,7 +65,7 @@
 63,Census Tract 8314,2,1,0,0
 64,Census Tract 8313,0,0,0,1
 65,Census Tract 105.01,1,0,1,0
-66,Census Tract 8330,100,5,18,1
+66,Census Tract 8330,101,5,18,1
 67,Census Tract 7608.01,0,1,0,0
 68,Census Tract 2521.01,2,0,1,0
 69,Census Tract 2521.02,0,0,0,0
@@ -95,7 +95,7 @@
 93,Census Tract 307.06,2,2,0,0
 94,Census Tract 3815,1,0,0,0
 95,Census Tract 8331,24,0,6,0
-96,Census Tract 8391,191,122,28,6
+96,Census Tract 8391,195,122,27,6
 97,Census Tract 812.01,30,0,3,1
 98,Census Tract 1504.01,4,0,2,2
 99,Census Tract 1505.01,0,0,0,0
@@ -376,7 +376,7 @@
 374,Census Tract 3109,3,7,1,0
 375,Census Tract 3204,60,51,10,4
 376,Census Tract 615,5,17,1,0
-377,Census Tract 3206,27,1,3,2
+377,Census Tract 3206,26,1,3,2
 378,Census Tract 7403,1,0,0,0
 379,Census Tract 6607,0,0,0,0
 380,Census Tract 2227,7,0,2,0
@@ -486,7 +486,7 @@
 484,Census Tract 4604,0,0,0,0
 485,Census Tract 6812,0,0,0,0
 486,Census Tract 6905,0,0,0,0
-487,Census Tract 2414,51,12,10,2
+487,Census Tract 2414,52,12,10,2
 488,Census Tract 2415,22,14,7,0
 489,Census Tract 2416,5,0,0,0
 490,Census Tract 2420,18,0,4,2
@@ -653,7 +653,7 @@
 651,Census Tract 5804,1,0,2,0
 652,Census Tract 5806,1,0,0,0
 653,Census Tract 5303,1,0,0,0
-654,Census Tract 513,0,0,0,0
+654,Census Tract 513,1,0,0,0
 655,Census Tract 5001,0,0,0,0
 656,Census Tract 506,5,2,3,1
 657,Census Tract 507,1,0,2,0
