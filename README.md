@@ -11,7 +11,7 @@ For clarity and to be able to work together in git on the same topics, we divide
 ### 0. Pre-Preparation
 
 - 00_export_hdf5.ipynb: Create a hdf5 file, to work with the large dataset
-- 00_Weatherdata_scraping.ipynb: Load and prepare the weather data
+- 00_weatherdata_scraping.ipynb: Load and prepare the weather data
 
 ### 1. Preparation
 
@@ -19,8 +19,8 @@ For clarity and to be able to work together in git on the same topics, we divide
 
 ### 2. Descriptive analysis
 
-- 02_Demand_Analysis.ipynb: Analysis of demand at differrent levels
-- 02_Time_Analysis.ipynb: Detailed analysis of the trip length and timepoints
+- 02_demand_Analysis.ipynb: Analysis of demand at differrent levels
+- 02_time_Analysis.ipynb: Detailed analysis of the trip length and timepoints
 - 02_utilization.ipynb: General analysis of the utilization
 
 ### 3. Spacial Analyis
