@@ -33,6 +33,7 @@ For clarity and to be able to work together in git on the same topics, we divide
 
 ### 5. Prediction
 
+- 05_point_of_interest.ipynb: Loads the point of interest from the overpass api
 - 05a_prediction_data_prep.ipynb: Preparation for prediction and feature engeneering
 - 05b_nn_prediction.ipynb: Build a predictive model using a neuronal network
 - 05c_svm_prediction.ipynb: Build a predicitve model using a support vector machine
